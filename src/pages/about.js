@@ -49,7 +49,7 @@ const AboutPage = (props) => {
         <Container size={'large'} spacing={'min'}>
           <div className={styles.detailContainer} ref={historyRef}>
             <p>
-              Founded in 2020, DreamlinerTech Shop is an innovative Kenyan brand with a
+              Founded in 1860, Sydney Shop is an innovative Australian brand with a
               contemporary edge. We make timeless everyday luxury clothing.
             </p>
             <br />
